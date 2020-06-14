@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/caesar-cipher-example/static/css/main.5f361e03.chunk.css",
+    "main.js": "/caesar-cipher-example/static/js/main.0594457a.chunk.js",
+    "main.js.map": "/caesar-cipher-example/static/js/main.0594457a.chunk.js.map",
+    "runtime-main.js": "/caesar-cipher-example/static/js/runtime-main.e20a9ca1.js",
+    "runtime-main.js.map": "/caesar-cipher-example/static/js/runtime-main.e20a9ca1.js.map",
+    "static/js/2.f20b4695.chunk.js": "/caesar-cipher-example/static/js/2.f20b4695.chunk.js",
+    "static/js/2.f20b4695.chunk.js.map": "/caesar-cipher-example/static/js/2.f20b4695.chunk.js.map",
+    "index.html": "/caesar-cipher-example/index.html",
+    "precache-manifest.96780272298084114eb1e424856cb2f3.js": "/caesar-cipher-example/precache-manifest.96780272298084114eb1e424856cb2f3.js",
+    "service-worker.js": "/caesar-cipher-example/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/caesar-cipher-example/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f20b4695.chunk.js.LICENSE.txt": "/caesar-cipher-example/static/js/2.f20b4695.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/caesar-cipher-example/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e20a9ca1.js",
+    "static/js/2.f20b4695.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0594457a.chunk.js"
+  ]
+}
